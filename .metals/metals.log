@@ -47,3 +47,76 @@ WARNING: Unmatched cancel notification for request id 8
 2026.10.28 09:14:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
 Oct 28, 2026 9:14:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.10.28 09:17:56 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:17:56 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:17:56 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:17:56 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:17:58 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:17:58 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:17:59 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:17:59 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:01 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:01 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:01 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:01 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:01 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:02 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:02 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:04 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:04 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:05 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:05 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:05 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:06 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:05 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:06 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:06 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:06 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:06 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:06 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:07 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:07 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:08 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:09 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:09 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:09 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:09 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:09 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:11 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:38 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:45 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:53 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+Oct 28, 2026 9:18:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 97
+2026.10.28 09:18:52 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:53 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:53 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+Oct 28, 2026 9:18:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2026.10.28 09:18:53 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:54 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:54 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:54 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:54 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:55 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:55 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:55 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:55 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:18:55 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:18:55 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:19:03 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:19:03 WARN  no build target for: C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java
+2026.10.28 09:19:03 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:19:14 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
+2026.10.28 09:19:14 INFO  no build target found for C:\Users\PC\IdeaProjects\StockLedger\src\main\java\org\example\StockLedger.java. Using fallback presentation compiler.
